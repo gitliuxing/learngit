@@ -1,7 +1,7 @@
 第一行feature1分支内容
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+修复的BUG修复的BUG修复的BUG修复的BUG修复的BUG修复的BUG
 Git tracks changes.
 Creating a new branch is quick.
 dev分支新增的内容dev分支新增的内容dev分支新增的内容dev分支新增的内容
