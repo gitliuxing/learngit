@@ -1,4 +1,5 @@
 第一行feature1分支内容
+第二次修改的bug第二次修改的bug第二次修改的bug第二次修改的bug第二次修改的bug第二次修改的bug
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 修复的BUG修复的BUG修复的BUG修复的BUG修复的BUG修复的BUG
