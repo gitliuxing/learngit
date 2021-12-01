@@ -11,4 +11,5 @@ master主分支上新增的内容
 新增feature1分支内容
 >>>>>>> feature1
 Creating a new branch is quick and simple.
-新增倒数最后一行内容
+新增倒数最后一行内容9999999999999999
+0999999999999999999999999999999999999999999999
